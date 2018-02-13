@@ -1,0 +1,7 @@
+{
+  "name": "messenger",
+  "short_name": "messenger",
+  "description": "chat msm",
+  "start_url": "/",
+  "display": "standalone"
+}
